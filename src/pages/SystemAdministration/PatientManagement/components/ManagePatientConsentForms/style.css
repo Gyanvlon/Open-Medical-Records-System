@@ -1,0 +1,12 @@
+.react-form-builder > div {
+  display: flex;
+}
+
+.react-form-builder-toolbar {
+  width: 300px !important;
+  margin-top: 10px;
+}
+
+.react-form-builder-preview .toolbar-header-buttons {
+  right: 0px !important;
+}
