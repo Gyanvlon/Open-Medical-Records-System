@@ -1,0 +1,20 @@
+.ant-collapse {
+  width: 100% !important;
+}
+.ant-collapse-header {
+  font-size: 15px;
+  font-weight: 400;
+}
+.medi {
+  display: block !important;
+}
+.yesClass,
+.noClass {
+  color: rgba(0, 0, 0, 0.85) !important;
+}
+.commentClass {
+  width: 100%;
+}
+.patientDialog > .MuiDialog-paperFullWidth {
+  width: 60% !important;
+}
